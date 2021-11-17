@@ -13,7 +13,7 @@ ABS="Developer 🧑‍💻"
 APPER="darkz_hacker_devil"
 OWNER="Owner"
 GITCLONE="https://t.me/media_bot_updates"
-B2="telegram.dog/shamilhabeeb"
+B2="telegram.dog/darkz_hacker_devil"
 BUTTON1="🤖 Update Channel 🤖"
 
 def time_to_seconds(time):
